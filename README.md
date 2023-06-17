@@ -5,10 +5,6 @@
 A simple responsive web page built using CSS grid fluid layout.
 Used sass (.scss by the way) stylesheet (this scss files eventually gets compiled, compressed for production)
 
-## Demo
-
-https://heroic-croquembouche-bf3c46.netlify.app/
-
 ## Lessons Learned
 
 - using CSS grid
